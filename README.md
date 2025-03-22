@@ -1,2 +1,3 @@
 # bubble_mapping_paper
- code for Lya-based bubble mapping
+ This repository contains code for Lya-based bubble mapping. 
+ 
